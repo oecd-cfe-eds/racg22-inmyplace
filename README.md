@@ -1,4 +1,6 @@
-# Regions and Cities at a Glance 2022 -- Country notes
+# [Regions and Cities at a Glance 2022](https://www.oecd.org/cfe/oecd-regions-and-cities-at-a-glance-26173212.htm)
+
+_Country profiles_
 
 -   [Australia](https://oecd-cfe-eds.github.io/racg22-inmyplace/AUS.html)
 -   [Austria](https://oecd-cfe-eds.github.io/racg22-inmyplace/AUT.html)
