@@ -1,0 +1,44 @@
+:root {
+	--plum: rgb(105, 48, 88);
+	--pink: rgb(204, 25, 76);
+	--orange: rgb(255, 104, 72);
+	--yellow: rgb(255, 192, 0);
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 3rem;
+  color: var(--plum);
+}
+
+.nav-tabs .nav-link {
+  font-size: .85rem
+}
+
+.sidebar nav[role=doc-toc]>h2, .sidebar nav[role=doc-toc]>.h2 {
+  font-size: .9rem;
+  font-weight: 700;
+}
+
+.fignotes {
+  font-size: small;
+  color: #5a6570;
+}
+
+.fignotes p {
+  padding:0px;
+  margin:0px;
+}
+
+.fignotes ~ p {
+  margin-top: 1rem;
+}
+
+.table-caption, caption {
+  color: #5a6570;
+  text-align: left;
+}
+
+.gt_table {
+  width: 100%;
+}
